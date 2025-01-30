@@ -1,0 +1,24 @@
+.My-Footer {
+  background-color: rgb(240, 240, 240);
+  color: grey;
+  font-size: 13px;
+  justify-content: space-between;
+}
+
+td > a {
+  text-decoration: none;
+  color: grey;
+}
+
+td > a:hover {
+  text-decoration: underline;
+}
+
+th {
+  color: black;
+  font-weight: 500;
+}
+
+tbody > tr > a {
+  margin-left: 100%;
+}
